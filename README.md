@@ -19,15 +19,61 @@ Welcome to the All-in-One Toolkit repository! This toolkit consists of three Pyt
 
 1) Clone the repository:
 
-bash
+```bash
 git clone https://github.com/your-username/all-in-one-toolkit.git
+```
 
 3) Navigate to the project directory:
 
-bash
+```bash
 cd all-in-one-toolkit
+```
 
-5) Install any dependencies required for each script:
+5) Install any dependencies & required packages using pip for each script:
 
-bash
+- Python 3.7+
+- pip (Python package installer)
+- VSCode 
+
+```bash
+pip install tk
+```
+
+## Usage
+
+### GUI Calculator
+
+1) Navigate to the 'calculator.py' file.
+
+2) Run the script using Python:
+
+```bash
+python calculator.py
+```
+3) Perform basic arithmetic operations, square roots, and factorials using the graphical user interface.
+
+
+### Password Generator
+
+1) Navigate to the password_generator.py file.
+
+2) Run the script using Python:
+
+```bash
+python password_generator.py
+```
+3) Follow the on-screen instructions to generate strong passwords with custom length and complexity.
+
+### Password Generator
+
+1) Navigate to the task_manager.py file.
+
+2) Run the script using Python:
+
+```bash
+python calculator.py
+```
+3) Manage tasks efficiently by adding, editing, and deleting tasks using the graphical user interface.
+
+
   
