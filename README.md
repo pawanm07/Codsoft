@@ -64,16 +64,26 @@ python password_generator.py
 ```
 3) Follow the on-screen instructions to generate strong passwords with custom length and complexity.
 
-### Password Generator
+### Task Manager
 
-1) Navigate to the task_manager.py file.
+1) Navigate to the todolist.py file.
 
 2) Run the script using Python:
 
 ```bash
-python calculator.py
+python todolist.py
 ```
 3) Manage tasks efficiently by adding, editing, and deleting tasks using the graphical user interface.
+
+
+# Contributing
+
+Contributions to the All-in-One Toolkit are welcome! To contribute, follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or improvement.
+- Commit your changes and push to your fork.
+- Create a pull request with a detailed description of your changes.
 
 
   
