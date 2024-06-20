@@ -78,11 +78,15 @@ python todolist.py
 
 ## Screenshot
 
+- GUI Calculator
+
 ![GUI Calculator Screenshot](https://github.com/pawanm07/Codsoft/blob/main/Calculator.PNG)
-
+- Password Generator
+  
 ![Password Generator Screenshot](https://github.com/pawanm07/Codsoft/blob/main/PasswordGenerator.PNG)
+- Task Manager
 
-![Task Manager Screenshot](h)
+![Task Manager Screenshot](https://github.com/pawanm07/Codsoft/blob/main/ToDoList.PNG)
 
 ## Contributing
 
