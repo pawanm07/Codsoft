@@ -76,7 +76,7 @@ python todolist.py
 3) Manage tasks efficiently by adding, editing, and deleting tasks using the graphical user interface.
 
 
-# Contributing
+## Contributing
 
 Contributions to the All-in-One Toolkit are welcome! To contribute, follow these steps:
 
