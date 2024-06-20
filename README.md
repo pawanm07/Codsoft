@@ -13,6 +13,7 @@ Welcome to the All-in-One Toolkit repository! This toolkit consists of three Pyt
 
 - Installation
 - Usage
+- Screenshot
 - Contributing
 
 ## Installation
@@ -23,13 +24,13 @@ Welcome to the All-in-One Toolkit repository! This toolkit consists of three Pyt
 git clone https://github.com/your-username/all-in-one-toolkit.git
 ```
 
-3) Navigate to the project directory:
+2) Navigate to the project directory:
 
 ```bash
 cd all-in-one-toolkit
 ```
 
-5) Install any dependencies & required packages using pip for each script:
+3) Install any dependencies & required packages using pip for each script:
 
 - Python 3.7+
 - pip (Python package installer)
@@ -75,6 +76,13 @@ python todolist.py
 ```
 3) Manage tasks efficiently by adding, editing, and deleting tasks using the graphical user interface.
 
+## Screenshot
+
+![GUI Calculator Screenshot](h)
+
+![Password Generator Screenshot](h)
+
+![Task Manager Screenshot](h)
 
 ## Contributing
 
