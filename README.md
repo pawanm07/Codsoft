@@ -80,7 +80,7 @@ python todolist.py
 
 ![GUI Calculator Screenshot](https://github.com/pawanm07/Codsoft/blob/main/Calculator.PNG)
 
-![Password Generator Screenshot](h)
+![Password Generator Screenshot](https://github.com/pawanm07/Codsoft/blob/main/PasswordGenerator.PNG)
 
 ![Task Manager Screenshot](h)
 
